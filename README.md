@@ -12,7 +12,7 @@ The smart contract is deployed on the Sepolia Network at the address 0x5285346bF
 - You can view that the contract is actually deployed on Sepolia Network by going to https://explorer.sepolia.net/ and searching for the contract address.
 
 ## Instructions for running the frontend
-- Copy the address of the deployed contract and paste it in the `CONTRACT_ADDRESS` variable in the `frontend/src/App.js` file.
+- Copy the address of the deployed contract and paste it in the `contractAddress` variable in the `frontend/src/App.js` file.
 - `cd frontend`
 - Install dependencies with `npm install`
 - Run the frontend with `npm start`
